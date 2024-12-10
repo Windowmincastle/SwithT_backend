@@ -1,8 +1,8 @@
 ## 🙋🏻팀원
 
-| **김민성** | **박우진** | **황정하** | **신승현** | **김지은** |
-| :------: |  :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/Windowmincastle" height=150 width=150> <br/> @Windowmincastle](https://github.com/Windowmincastle) | [<img src="https://avatars.githubusercontent.com/getsetgo1" height=150 width=150> <br/> @getsetgo1](https://github.com/getsetgo1) | [<img src="https://avatars.githubusercontent.com/NaturalHwang" height=150 width=150> <br/> @NaturalHwang](https://github.com/NaturalHwang) | [<img src="https://avatars.githubusercontent.com/hyun331" height=150 width=150> <br/> @hyun331](https://github.com/hyun331) | [<img src="https://avatars.githubusercontent.com/keemzleun" height=150 width=150> <br/> @keemzleun](https://github.com/keemzleun) |
+    | **김민성** | **박우진** | **황정하** | **신승현** | **김지은** |
+    | :------: |  :------: | :------: | :------: | :------: |
+    | [<img src="https://avatars.githubusercontent.com/Windowmincastle" height=150 width=150> <br/> @Windowmincastle](https://github.com/Windowmincastle) | [<img src="https://avatars.githubusercontent.com/getsetgo1" height=150 width=150> <br/> @getsetgo1](https://github.com/getsetgo1) | [<img src="https://avatars.githubusercontent.com/NaturalHwang" height=150 width=150> <br/> @NaturalHwang](https://github.com/NaturalHwang) | [<img src="https://avatars.githubusercontent.com/hyun331" height=150 width=150> <br/> @hyun331](https://github.com/hyun331) | [<img src="https://avatars.githubusercontent.com/keemzleun" height=150 width=150> <br/> @keemzleun](https://github.com/keemzleun) |
 <br/>
 
 <br/>
