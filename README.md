@@ -22,7 +22,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
   <br/>
 
 
-## 주요 기능
+## 📌 주요 기능
 
 <div align="left">
 
