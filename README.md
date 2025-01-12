@@ -344,16 +344,19 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 </details>
 <br/>
 
+<details>
 <summary><b>과제 일정 생성</b></summary>
 
 ![과제일정생성gif](https://github.com/user-attachments/assets/06b2447f-ac2a-4c9b-922b-13f7a3ee5d74)
 </details>
 
+<details>
 <summary><b>일정 알림 설정</b></summary>
 
 ![알림설정gif](https://github.com/user-attachments/assets/b6efb4b7-6943-487a-a946-d682a344ce66)
 </details>
 
+<details>
 <summary><b>일정 알림 설정 예외 처리</b></summary>
 
 ![알림설정실패(10분보다일찍설정할경우)gif](https://github.com/user-attachments/assets/32524b4a-795f-46bc-9031-5cd67b8f67b0)
