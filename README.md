@@ -147,28 +147,19 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <details>
 <summary><b>시스템 아키텍처</b></summary>
 
-![AWS 환경](https://github.com/user-attachments/assets/f8108583-ba58-46f4-9540-76f54e605f50)
-
+![시스템아키텍처,cicd_1](https://github.com/user-attachments/assets/905837e2-3fa8-4c9c-bce2-150c1267608c)
 </details>
 <br/>
-
-
 <details>
 <summary><b>백엔드</b></summary>
-
-![백엔드](https://github.com/user-attachments/assets/9d4a1e6c-e741-48c3-a3a4-71b720651bbc)
-
+  
+![시스템아키텍처,cicd_2](https://github.com/user-attachments/assets/1d06bbc4-a62e-467e-b4c9-30f07612eb36)
 </details>
 <br/>
-
-
 <details>
 <summary><b>프론트엔드</b></summary>
-
-
-![프론트엔드2](https://github.com/user-attachments/assets/37125592-4ae4-4e2c-8d50-0832967e244b)
-
-
+  
+![시스템아키텍처,cicd_3](https://github.com/user-attachments/assets/47ede583-ece4-402e-96d9-03546bb442d4)
 </details>
 <br/>
 
