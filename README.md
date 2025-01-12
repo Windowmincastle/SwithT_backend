@@ -275,71 +275,68 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ![search](https://github.com/user-attachments/assets/328fc12e-cf57-4a6f-aebb-f1469b279e83)
 </details>
 <br/>
-
 <details>
 <summary><b>강의 개설</b></summary>
 
 ![강의 개설 gif](https://github.com/user-attachments/assets/d5be141b-2ae0-4410-96d1-446002acab4b)
 ![과외 개설 gif](https://github.com/user-attachments/assets/871331d5-88c1-4850-96c8-2b1885b14ffb)
-
 </details>
 <br/>
-
 <details>
 <summary><b>강의 승인</b></summary>
 
 ![관리자뷰-강의승인](https://github.com/user-attachments/assets/d06a9db0-d54d-49f6-8dde-1ec0991e0704)
 </details>
 <br/>
-
 <details>
 <summary><b>강의 승인 알림(강사 입장)</b></summary>
 
 ![튜터 뷰-강의승인 알림gif](https://github.com/user-attachments/assets/4f86d75e-53db-44b6-8933-5dc0f5b1fd1f)
 </details>
 <br/>
-
 <details>
 <summary><b> 강의 신청 1:N </b></summary>
 
 ![대기열](https://github.com/user-attachments/assets/3f488864-9d5b-48bd-9878-342eb1da0b3c)
 </details>
 <br/>
-
 <details>
 <summary><b> 강의 신청 1:1 </b></summary>
 
 ![11강의신청](https://github.com/user-attachments/assets/b35869af-3ee0-43d1-b253-777f62c97991)
 </details>
 <br/>
-
 <details>
 <summary><b>관리 종합 화면</b></summary>
 
 ![강의관리종합페이지GIF](https://github.com/user-attachments/assets/f169e0a9-da68-40cf-a34c-165c4c401a38)
 ![강의관리종합페이지스크린샷](https://github.com/user-attachments/assets/163b5e58-e772-4e6f-9e59-bdf812f5e5d1)
-
 </details>
 <br/>
-
 <details>
-<summary><b>강의 홈 (공지사항,과제,게시글,댓글) </b></summary>
+<summary><b>강의 홈 </b></summary>
 
-<b>홈 화면</b>
 ![lectureHome](https://github.com/user-attachments/assets/1f5870bb-3dae-47e7-9e4c-706967f341a4)
-<b>게시글 등록</b>
+<br/>
+<summary><b>게시글 등록</b></summary>
+
 ![게시글등록gif](https://github.com/user-attachments/assets/cbdcdb57-a6ac-4e73-8a4f-a6f602f9e855)
+<br/>
+
 <b>게시글 댓글</b>
+
 ![게시글댓글gif](https://github.com/user-attachments/assets/a0c4e8fa-ef0f-4ded-9a3b-21340e923230)
-<b>공지사항 등록</b>
+<br/>
+<summary><b>공지사항 등록</b></summary>
 ![공지사항등록gif](https://github.com/user-attachments/assets/686f0485-777f-441c-aebd-a6937d9125cc)
+<br/>
 
 <summary><b>과제 생성</b></summary>
 
 ![과제생성gif](https://github.com/user-attachments/assets/03d65bfd-2968-475a-afa4-ee5efba839a7)
 </details>
 <br/>
-
+<summary></summary>
 
 
 ### 일정 관리
@@ -386,5 +383,18 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <br/>
 
 
-# 채팅
+## 채팅
+<details>
+<summary><b>단체 채팅</b></summary>
+
+![다대다채팅](https://github.com/user-attachments/assets/6352e66c-9df6-49fe-b3fe-63d5deac7cbb)
+</details>
+<br/>
+
+<details>
+<summary><b>1:1 채팅 상담</b></summary>
+
+![일대일강의신청튜터의채팅상담](https://github.com/user-attachments/assets/adf478bc-aafb-4304-8c41-a5919bbd3757)
+</details>
+<br/>
 
