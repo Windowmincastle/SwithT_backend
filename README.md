@@ -277,6 +277,15 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <br/>
 
 <details>
+<summary><b>강의 개설</b></summary>
+
+![강의 개설 gif](https://github.com/user-attachments/assets/d5be141b-2ae0-4410-96d1-446002acab4b)
+![과외 개설 gif](https://github.com/user-attachments/assets/871331d5-88c1-4850-96c8-2b1885b14ffb)
+
+</details>
+<br/>
+
+<details>
 <summary><b>강의 승인</b></summary>
 
 ![관리자뷰-강의승인](https://github.com/user-attachments/assets/d06a9db0-d54d-49f6-8dde-1ec0991e0704)
@@ -298,11 +307,9 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <br/>
 
 <details>
-<summary><b>강의 개설</b></summary>
+<summary><b> 강의 신청 1:1 </b></summary>
 
-![강의 개설 gif](https://github.com/user-attachments/assets/d5be141b-2ae0-4410-96d1-446002acab4b)
-![과외 개설 gif](https://github.com/user-attachments/assets/871331d5-88c1-4850-96c8-2b1885b14ffb)
-
+![11강의신청](https://github.com/user-attachments/assets/b35869af-3ee0-43d1-b253-777f62c97991)
 </details>
 <br/>
 
@@ -318,10 +325,15 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <details>
 <summary><b>강의 홈 (공지사항,과제,게시글,댓글) </b></summary>
 
+<b>홈 화면</b>
 ![lectureHome](https://github.com/user-attachments/assets/1f5870bb-3dae-47e7-9e4c-706967f341a4)
+<b>게시글 등록</b>
 ![게시글등록gif](https://github.com/user-attachments/assets/cbdcdb57-a6ac-4e73-8a4f-a6f602f9e855)
+<b>게시글 댓글</b>
 ![게시글댓글gif](https://github.com/user-attachments/assets/a0c4e8fa-ef0f-4ded-9a3b-21340e923230)
+<b>공지사항 등록</b>
 ![공지사항등록gif](https://github.com/user-attachments/assets/686f0485-777f-441c-aebd-a6937d9125cc)
+<summary><b>과제 생성</b></summary>
 ![과제생성gif](https://github.com/user-attachments/assets/03d65bfd-2968-475a-afa4-ee5efba839a7)
 
 </details>
@@ -360,6 +372,15 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <summary><b>일정 알림 설정 예외 처리</b></summary>
 
 ![알림설정실패(10분보다일찍설정할경우)gif](https://github.com/user-attachments/assets/32524b4a-795f-46bc-9031-5cd67b8f67b0)
+</details>
+<br/>
+
+<details>
+<summary><b>SMS 알림</b></summary>
+
+![문자내용짤](https://github.com/user-attachments/assets/0b37a716-99e8-4dc3-ada5-ec68f0ed11d1)
+![문자내용짤2](https://github.com/user-attachments/assets/bab8a874-ff95-47ad-a021-13d2c3be790e)
+
 </details>
 <br/>
 
