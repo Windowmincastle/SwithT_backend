@@ -57,7 +57,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 | **편리한 학습 관리**             | 강사와 수강생 간 실시간 소통 및 알림 기능을 통해 학습 과정을 원활히 진행하며, 강사와 학생 모두 효율적으로 수업을 운영하고 참여할 수 있습니다. |
 | **안정적이고 확장 가능한 시스템 제공** | OpenSearch를 활용한 빠른 데이터 검색, 대기열 시스템으로 높은 트래픽 상황에서도 안정적 서비스 제공, Redis Stream으로 데이터 유실을 방지하며, MSA 환경을 기반으로 확장성과 신뢰성을 확보합니다. 또한, 카프카를 사용하여 대용량 채팅 환경에서도 안정적인 메시지 전송을 보장합니다. |
 
-**SwithT 프로젝트**는 편리한 기능 제공을 통해 교육의 접근성과 효율성을 극대화하여 UX 향상을 기대하며 교육 시장의 다양성을 확장합니다.
+**SwithT 프로젝트**는 편리한 기능 제공을 통해 교육의 접근성과 효율성을 극대화하여 교육 시장의 다양성을 확장합니다.
 <br/>
 
 
@@ -117,8 +117,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 ## 🗓️ Work Breakdown Structure - [WBS 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=811390028#gid=811390028)
 ![WBS_10-25](https://github.com/user-attachments/assets/828caf1b-0c5e-47ed-8601-9927523f71b5)
-
-
+<br/>
 
 
 
@@ -126,7 +125,6 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ## 📝 요구사항정의서 - [요구사항 정의서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=348186960#gid=348186960)
 ![요구사항명세서(1)_10-25](https://github.com/user-attachments/assets/0781b334-e552-4b3c-95fe-3220d9c38c93)
 ![요구사항명세서(2)_10-25](https://github.com/user-attachments/assets/9585bbd8-c316-4ee2-bb55-d0e591317879)
-
 <br/>
 
 
@@ -181,7 +179,6 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ![image](https://github.com/user-attachments/assets/7400b73a-5e2a-4365-a172-bddda2f4127e)
 ![image](https://github.com/user-attachments/assets/69621317-aa04-4592-a6d1-2f24f9700f86)
 ![image](https://github.com/user-attachments/assets/47a607de-a3f9-4edf-b3fa-cb60a8173893)
-
 <br/>
 
 
