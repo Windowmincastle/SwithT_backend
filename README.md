@@ -224,7 +224,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 ![로그인 화면 진입 탭 전환 ](https://github.com/user-attachments/assets/c4a38fa6-1a36-4555-8ea4-52746b3148b5)
 
-<summary><b>관리자 로그안</b></summary>
+<summary><b>관리자 로그인</b></summary>
 
 ![어드민로그인](https://github.com/user-attachments/assets/817ba781-972e-4fb9-bf14-2139b0e941a7)
 
@@ -268,101 +268,89 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
-### 튜터 강의 개설
+### 강의
 <details>
-<summary><b>튜터 강의 개설</b></summary>
-<img src="https://github.com/user-attachments/assets/c6d6bccd-8803-4d61-9922-b145da657801" alt="튜터 강의 개설"/>
+<summary><b>강의 검색</b></summary>
+
+![search](https://github.com/user-attachments/assets/328fc12e-cf57-4a6f-aebb-f1469b279e83)
 </details>
 <br/>
 
-### 튜터 과외 개설
-<details>
-<summary><b>튜터 과외 개설</b></summary>
-<img src="https://github.com/user-attachments/assets/60beff98-9f61-4af6-a847-a143c69381fa" alt="튜터 과외 개설"/>
+<summary><b>강의 승인</b></summary>
+
+![관리자뷰-강의승인](https://github.com/user-attachments/assets/d06a9db0-d54d-49f6-8dde-1ec0991e0704)
+</details>
+<br/>
+
+<summary><b>강의 승인 알림(강사 입장)</b></summary>
+
+![튜터 뷰-강의승인 알림gif](https://github.com/user-attachments/assets/4f86d75e-53db-44b6-8933-5dc0f5b1fd1f)
+</details>
+<br/>
+
+<summary><b> 강의 신청 1:N </b></summary>
+
+![대기열](https://github.com/user-attachments/assets/3f488864-9d5b-48bd-9878-342eb1da0b3c)
+</details>
+<br/>
+
+<summary><b>강의 개설</b></summary>
+
+![강의 개설 gif](https://github.com/user-attachments/assets/d5be141b-2ae0-4410-96d1-446002acab4b)
+![과외 개설 gif](https://github.com/user-attachments/assets/871331d5-88c1-4850-96c8-2b1885b14ffb)
+
+</details>
+<br/>
+
+<summary><b>관리 종합 화면</b></summary>
+
+![강의관리종합페이지GIF](https://github.com/user-attachments/assets/f169e0a9-da68-40cf-a34c-165c4c401a38)
+![강의관리종합페이지스크린샷](https://github.com/user-attachments/assets/163b5e58-e772-4e6f-9e59-bdf812f5e5d1)
+
+</details>
+<br/>
+
+<summary><b>강의 홈 (공지사항,과제,게시글,댓글) </b></summary>
+
+![lectureHome](https://github.com/user-attachments/assets/1f5870bb-3dae-47e7-9e4c-706967f341a4)
+![게시글등록gif](https://github.com/user-attachments/assets/cbdcdb57-a6ac-4e73-8a4f-a6f602f9e855)
+![게시글댓글gif](https://github.com/user-attachments/assets/a0c4e8fa-ef0f-4ded-9a3b-21340e923230)
+![공지사항등록gif](https://github.com/user-attachments/assets/686f0485-777f-441c-aebd-a6937d9125cc)
+![과제생성gif](https://github.com/user-attachments/assets/03d65bfd-2968-475a-afa4-ee5efba839a7)
+
 </details>
 <br/>
 
 
-### 어드민 강의 과외 승인
-<details>
-<summary><b>어드민 강의 과외 승인</b></summary>
-<img src="https://github.com/user-attachments/assets/872808f8-b692-4bc8-85c8-d04314ac38a0" alt="어드민 강의 과외 승인"/>
+
+### 일정 관리
+<summary><b>강의 일정 추가</b></summary>
+
+![강의일정추가gif](https://github.com/user-attachments/assets/01ef3cc0-bdd8-4f15-857c-a47a50da10bd)
 </details>
 <br/>
 
-### 튜터의 개설된 강의 과외 리스트 확인 및 해당 그룹 확인
-<details>
-<summary><b>튜터의 개설된 강의 과외 리스트 확인 및 해당 그룹 확인</b></summary>
-<img src="https://github.com/user-attachments/assets/45e9b50b-6aa8-4a70-9023-5abfa44bcc54" alt="어드민 강의 과외 승인"/>
+
+<summary><b>개인 일정 생성</b></summary>
+
+![개인일정생성gif](https://github.com/user-attachments/assets/9c0c673b-e504-45c9-b6ed-26d9792a9e0b)
 </details>
 <br/>
 
-### 튜터의 강의 그룹 수정
-<details>
-<summary><b>튜터의 강의 그룹 수정</b></summary>
-<img src="https://github.com/user-attachments/assets/2a5db18b-6b52-4f8a-a165-a7e0e77d4489" alt="튜터의 강의 그룹 수정"/>
+<summary><b>과제 일정 생성</b></summary>
+
+![과제일정생성gif](https://github.com/user-attachments/assets/06b2447f-ac2a-4c9b-922b-13f7a3ee5d74)
+</details>
+
+<summary><b>일정 알림 설정</b></summary>
+
+![알림설정gif](https://github.com/user-attachments/assets/b6efb4b7-6943-487a-a946-d682a344ce66)
+</details>
+
+<summary><b>일정 알림 설정 예외 처리</b></summary>
+
+![알림설정실패(10분보다일찍설정할경우)gif](https://github.com/user-attachments/assets/32524b4a-795f-46bc-9031-5cd67b8f67b0)
 </details>
 <br/>
 
-### 튜티의 과외 신청 및 튜터의 신청 승인 및 튜티의 결제 알림 확인
-<details>
-<summary><b>튜티의 과외 신청</b></summary>
-<img src="https://github.com/user-attachments/assets/267beb74-6a7d-4296-9cac-22e4a2cb3125" alt="튜티의 과외 신청 및 튜터의 신청 승인 및 튜티의 결제 알림 확인"/>
-</details>
-<br/>
-<details>
-<summary><b>튜터 신청 승인</b></summary>
-<img src="https://github.com/user-attachments/assets/90359f2e-1eb8-4237-a761-ac308fa53f3d" alt="튜티의 과외 신청 및 튜터의 신청 승인 및 튜티의 결제 알림 확인"/>
-</details>
-<br/>
-<details>
-<summary><b>튜터 신청 승인 및 튜티 결제</b></summary>
-<img src="https://github.com/user-attachments/assets/90359f2e-1eb8-4237-a761-ac308fa53f3d" alt="튜티의 과외 신청 및 튜터의 신청 승인 및 튜티의 결제 알림 확인"/>
-</details>
-<br/>
 
-### 튜터의 과제 생성/조회/수정/삭제
-<details>
-<summary><b>튜터의 과제 생성</b></summary>
-<img src="https://github.com/user-attachments/assets/444ee043-4fc6-44a1-bd52-c98243d17984" alt="튜터의 과제 생성"/>
-</details>
-<br/>
-
-<details>
-<summary><b>튜터의 과제 수정</b></summary>
-<img src="https://github.com/user-attachments/assets/823296db-2072-40ae-b43e-cad6a6f8359d" alt="튜터의 과제 수정"/>
-</details>
-<br/>
-
-<details>
-<summary><b>튜터의 과제 삭제</b></summary>
-<img src="https://github.com/user-attachments/assets/8610dd5b-e38a-46f1-a2a3-32d5bbc75642" alt="튜터의 과제 삭제"/>
-</details>
-<br/>
-
-### 튜터의 게시글 생성/조회/수정/삭제
-<details>
-<summary><b>튜터의 게시글 생성</b></summary>
-<img src="https://github.com/user-attachments/assets/c6c971e6-20fb-4b40-b99c-7030624f77b7" alt="튜터의 게시글 생성"/>
-</details>
-
-<br/>
-
-<details>
-<summary><b>튜터의 게시글 수정</b></summary>
-<img src="https://github.com/user-attachments/assets/8b2bc19d-c4de-4f5d-9e94-74ad95111bf6" alt="튜터의 게시글 수정"/>
-</details>
-<br/>
-
-<details>
-<summary><b>튜터의 게시글 삭제</b></summary>
-<img src="https://github.com/user-attachments/assets/216776cc-13ae-4d3d-8ff8-881d324d5fdc" alt="튜터의 게시글 삭제"/>
-</details>
-<br/>
-
-### 댓글 생성/조회/수정/삭제
-<details>
-<summary><b>댓글 생성/조회/수정/삭제</b></summary>
-<img src="https://github.com/user-attachments/assets/41c6ee12-321b-489a-a957-216ab533f017" alt="댓글 생성/조회/수정/삭제/>
-</details>
-<br/>
