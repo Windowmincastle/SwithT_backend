@@ -1,11 +1,15 @@
 ## 🙋🏻팀원
-
 | **김민성** | **박우진** | **황정하** | **신승현** | **김지은** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/Windowmincastle" height=150 width=150> <br/> @Windowmincastle](https://github.com/Windowmincastle) | [<img src="https://avatars.githubusercontent.com/getsetgo1" height=150 width=150> <br/> @getsetgo1](https://github.com/getsetgo1) | [<img src="https://avatars.githubusercontent.com/NaturalHwang" height=150 width=150> <br/> @NaturalHwang](https://github.com/NaturalHwang) | [<img src="https://avatars.githubusercontent.com/hyun331" height=150 width=150> <br/> @hyun331](https://github.com/hyun331) | [<img src="https://avatars.githubusercontent.com/keemzleun" height=150 width=150> <br/> @keemzleun](https://github.com/keemzleun) |
 <br/>
 
 <br/>
+
+
+
+
+
 
 ## 📢 프로젝트 소개
   
@@ -24,6 +28,10 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
   <br/>
 
 
+
+
+
+  
 ## 📌 주요 기능
 
 | 기능              | 설명                                                                                                                                                    |
@@ -34,6 +42,10 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 | **알림 기능**       | Server-Sent Events(SSE)와 Redis Stream을 활용하여 실시간 알림 기능을 구현했습니다. <br/> - **Redis Stream**: 알림 데이터의 유실을 방지하고 안정적인 데이터 전송을 보장합니다. <br/> - **확장성**: 높은 트래픽 상황에서도 안정적으로 알림을 제공할 수 있도록 설계되었습니다. |
 | **결제 기능**       | 포트원(Payments) API를 통합하여, 수강 신청 시 안전하고 간편하게 결제할 수 있는 기능을 제공합니다. 다양한 결제 옵션을 지원하여 사용자 경험을 향상시켰습니다. |
 | **대기열 기능**     | 인기 강사의 강의에 대한 높은 트래픽 상황을 대비하여 대기열 기능을 제공했습니다. 이를 통해 사용자들은 불편 없이 차례를 기다릴 수 있으며, 전체적인 사용자 경험을 개선했습니다. |
+
+
+
+
 
 
 ## 📍 기대효과
@@ -49,12 +61,20 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
+
+
+
 ## 🛠 기술 스택
 
 ###  DB
 ![mariadb](https://img.shields.io/badge/Mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge)
 ![amazons3](https://img.shields.io/badge/Amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+
+
+
+
 
 ### BACKEND
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -73,6 +93,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+
 ### TOOLS
 ![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -89,8 +110,15 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 <br/>
 
+
+
+
+
+
 ## 🗓️ Work Breakdown Structure - [WBS 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=811390028#gid=811390028)
 ![WBS_10-25](https://github.com/user-attachments/assets/828caf1b-0c5e-47ed-8601-9927523f71b5)
+
+
 
 
 
@@ -109,6 +137,11 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ## 📋 ERD - [ERD 상세보기](https://www.erdcloud.com/d/Ci6kBDHm5HRx5T5pX)
 ![ERD_10-25](https://github.com/user-attachments/assets/6a45ddcb-8bd2-4664-92ff-a2724d8354b5)
 <br/>
+
+
+
+
+
 
 ## 시스템아키텍처 및 CI/CD
 <details>
@@ -139,6 +172,11 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 </details>
 <br/>
 
+
+
+
+
+
 ## 테스트 결과서
 ### (과외) 과외강사와 학생 채팅(강사가 학생한테 승인전에 채팅을 건다.)
 <details>
@@ -146,6 +184,10 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <img src="https://github.com/user-attachments/assets/2490cebc-d2da-4c40-8ee9-fd6f2b9e313c" alt="과외강사와 학생 채팅"/>
 </details>
 <br/>
+
+
+
+
 
 
 ### 결제 요청 및 알림 기능
@@ -164,10 +206,18 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
+
+
+
 ## 📝 프로그램 사양서 - [프로그램 사양서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=1934764833#gid=1934764833)
 ![프로그램 사양서(1)_10-25](https://github.com/user-attachments/assets/fbd47cb2-5c84-4c2f-81fa-088d963adf1c)
 ![프로그램 사양서(2)_10-25](https://github.com/user-attachments/assets/d10f4958-d61f-48ab-882b-d68c1efa7d24)
 <br/>
+
+
+
+
+
 
 ## 📝 API 단위 테스트 결과서 - [API 단위 테스트 결과서 상세보기](https://documenter.getpostman.com/view/38251958/2sAXxLDFDP)
 ![image](https://github.com/user-attachments/assets/e80c869f-52d1-4292-b6c6-880e7ef3ca55)
@@ -179,6 +229,10 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <br/>
 
 
+
+
+
+
 ## 📝 화면 설계서 - [화면 설계서 상세보기](https://www.figma.com/design/823D0xOfvggZJW6FOEDC5B/SwithT-Project?node-id=564-7656&t=D2ENMnjlRpluYxjO-1)
 ![image](https://github.com/user-attachments/assets/54ee0d86-5465-4378-bf46-93fd61a43134)
 ![image](https://github.com/user-attachments/assets/ed49326c-394d-4333-900d-2fd50ceb51cf)
@@ -187,6 +241,11 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 <br/>
+
+
+
+
+
 
 ## 📝UI/UX 단위 테스트 결과서
 ### 회원 가입 및 로그인 화면
@@ -205,6 +264,10 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 </details>
 <br/>
+
+
+
+
 
 
 ### 소셜 로그인 및 회원가입
