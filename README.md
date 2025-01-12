@@ -215,16 +215,18 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ## 📝UI/UX 단위 테스트 결과서
 ### 회원 가입 및 로그인 화면
 <details>
-<summary><b>로그인 화면 진입 & 탭 전환</b></summary>
-    
-  ![로그인 화면 진입 탭 전환 ](https://github.com/user-attachments/assets/1509c0d4-1a95-42d5-8d10-b21d363914f0)
-  ![TUTOR 회원가입](https://github.com/user-attachments/assets/521ac644-a6a1-48cb-9091-db7b12d516e5)
-  ![TUTEE 회원가입 및 로그인](https://github.com/user-attachments/assets/edc95f62-d68e-41ed-9042-773ad4c527f2)
+<summary><b>회원가입</b></summary>
+  
+![TUTEE 회원가입 및 로그인](https://github.com/user-attachments/assets/c22a19bf-0319-48ea-9da6-c940d0f262a3)
+![TUTOR 회원가입](https://github.com/user-attachments/assets/9bbed768-e8e7-4f87-877c-d6d0ff3011dd)
 
+<summary><b>로그인</b></summary>
+
+![로그인 화면 진입 탭 전환 ](https://github.com/user-attachments/assets/c4a38fa6-1a36-4555-8ea4-52746b3148b5)
 
 <summary><b>관리자 로그안</b></summary>
 
-  ![어드민로그인](https://github.com/user-attachments/assets/5350f4e1-1925-4ba4-b0e9-b95d8980c068)
+![어드민로그인](https://github.com/user-attachments/assets/817ba781-972e-4fb9-bf14-2139b0e941a7)
 
 
 </details>
@@ -237,16 +239,18 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 ### 소셜 로그인 및 회원가입
 <details>
-<summary><b>구글 로그인 화면 진입 & 탭 전환</b></summary>
+<summary><b>소셜 로그인&회원가입 (구글)</b></summary>
   
-  ![카카오 소셜 로그인](https://github.com/user-attachments/assets/743c9ec5-65ea-4417-adf7-566f9b01977f)
+![구글로그인편집본gif](https://github.com/user-attachments/assets/5498ca93-5f4d-4bec-bac3-a569eb28859d)
+
 
 </details>
 <br/>
 <details>
-<summary><b>카카오 로그인</b></summary>
+<summary><b>소셜 로그인&회원가입 (카카오)</b></summary>
 
-  ![카카오 소셜 로그인](https://github.com/user-attachments/assets/d28f539a-b67d-4fbb-bfcf-bc830d771514)
+![카카오 소셜 로그인(2번_이gif가1번보다더나은듯)](https://github.com/user-attachments/assets/0cb28f84-c7dc-42c6-a1b2-ad9c61864e7c)
+
 
 </details>
 <br/>
@@ -256,7 +260,8 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <details>
 <summary><b>프로필 이미지 수정, 회원정보 수정</b></summary>
 
-  ![프로필이미지수정 회원정보수정](https://github.com/user-attachments/assets/a36feeb5-cfa4-4147-9a36-889a29e8e750)
+![프로필이미지수정 회원정보수정](https://github.com/user-attachments/assets/7d8455df-d54a-464a-a2bb-f1f92ee5292b)
+
 </details>
 <br/>
 
