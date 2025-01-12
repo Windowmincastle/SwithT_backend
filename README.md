@@ -333,9 +333,10 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 ![게시글댓글gif](https://github.com/user-attachments/assets/a0c4e8fa-ef0f-4ded-9a3b-21340e923230)
 <b>공지사항 등록</b>
 ![공지사항등록gif](https://github.com/user-attachments/assets/686f0485-777f-441c-aebd-a6937d9125cc)
-<summary><b>과제 생성</b></summary>
-![과제생성gif](https://github.com/user-attachments/assets/03d65bfd-2968-475a-afa4-ee5efba839a7)
 
+<summary><b>과제 생성</b></summary>
+
+![과제생성gif](https://github.com/user-attachments/assets/03d65bfd-2968-475a-afa4-ee5efba839a7)
 </details>
 <br/>
 
