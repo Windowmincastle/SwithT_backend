@@ -213,7 +213,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 ## 📝UI/UX 단위 테스트 결과서
-### 회원 가입 및 로그인 화면
+### 회원 기능
 <details>
 <summary><b>회원가입</b></summary>
   
@@ -268,7 +268,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
-### 강의
+### 강의 기능
 <details>
 <summary><b>강의 검색</b></summary>
 
@@ -318,6 +318,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <br/>
   
 <summary>강의 홈</summary>
+
 ![lectureHome](https://github.com/user-attachments/assets/1f5870bb-3dae-47e7-9e4c-706967f341a4)
 <br/>
 <summary><b>게시글 등록</b></summary>
@@ -339,7 +340,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 </details>
 <br/>
 
-### 일정 관리
+### 일정 관리 기능
 <details>
 <summary><b>강의 일정 추가</b></summary>
 
@@ -380,7 +381,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <br/>
 
 
-## 채팅
+## 채팅 기능
 <details>
 <summary><b>단체 채팅</b></summary>
 
@@ -392,6 +393,48 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 <summary><b>1:1 채팅 상담</b></summary>
 
 ![일대일강의신청튜터의채팅상담](https://github.com/user-attachments/assets/adf478bc-aafb-4304-8c41-a5919bbd3757)
+</details>
+<br/>
+
+## 결제,환불,정산 기능
+<details>
+<summary><b>1:N 강의 결제</b></summary>
+
+![강의결제GIF](https://github.com/user-attachments/assets/ca7f96cf-6b19-4f80-9832-a201b447c92f)
+</details>
+<br/>
+<details>
+<summary><b>1:1 강의 결제</b></summary>
+
+![일대일강의튜티가결제하는gif](https://github.com/user-attachments/assets/c5abdae4-45c3-476a-96f8-9dd312315a57)
+</details>
+<br/>
+<details>
+<summary><b>환불</b></summary>
+  
+![환불1](https://github.com/user-attachments/assets/d96d67c0-182f-4068-8f66-1db56a691bf7)
+![환불2](https://github.com/user-attachments/assets/04265e31-a06c-4dc8-a402-4e8b05d0b81b)
+![환불3](https://github.com/user-attachments/assets/2cc422b2-87cb-40d5-9334-8b5d8e4bcef6)
+![환불4](https://github.com/user-attachments/assets/7300380d-8996-4f13-8f51-caa2f9f73e95)
+![환불5](https://github.com/user-attachments/assets/4d2672d7-2fd4-448b-b7bd-0cad4c6dc389)
+</details>
+<br/>
+<details>
+<summary><b>정산</b></summary>
+  
+![정산1](https://github.com/user-attachments/assets/42cdff75-8500-4133-8bca-ebe9ace73d36)
+![정산2](https://github.com/user-attachments/assets/55cc9b8e-4806-48f9-936b-e75a61dbb9a1)
+![정산3](https://github.com/user-attachments/assets/97eb8a79-5aa1-4981-afe8-25bfc3cdd5e7)
+![정산4](https://github.com/user-attachments/assets/e1e15327-79fb-473d-813d-23a31f7676ff)
+
+</details>
+<br/>
+
+## 리뷰 작성
+<details>
+<summary><b>리뷰 작성</b></summary>
+
+![리뷰작성gif](https://github.com/user-attachments/assets/cc3cbdb2-a406-490d-bee8-546686b95b98)
 </details>
 <br/>
 
