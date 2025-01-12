@@ -174,41 +174,6 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
-
-
-
-## 테스트 결과서
-### (과외) 과외강사와 학생 채팅(강사가 학생한테 승인전에 채팅을 건다.)
-<details>
-<summary><b>튜터 튜티 채팅</b></summary>
-<img src="https://github.com/user-attachments/assets/2490cebc-d2da-4c40-8ee9-fd6f2b9e313c" alt="과외강사와 학생 채팅"/>
-</details>
-<br/>
-
-
-
-
-
-
-### 결제 요청 및 알림 기능
-<details>
-<summary><b>결제 요청 및 알림 기능</b></summary>
-<img src="https://github.com/user-attachments/assets/2df7a442-54eb-46b0-abaf-0a01ba0d32e4" alt="결제 요청 및 알림 기능"/>
-</details>
-<br/>
-
-### 알람 및 결제
-<details>
-<summary><b>알람 및 결제</b></summary>
-<img src="https://github.com/user-attachments/assets/19b9ed87-1757-4581-8455-af768658fe9a" alt="알람 및 결제"/>
-</details>
-<br/>
-
-
-
-
-
-
 ## 📝 프로그램 사양서 - [프로그램 사양서 상세보기](https://docs.google.com/spreadsheets/d/1GH_rCJKcHojk6-SSolw8yv9uBQK2eujsTFvQqh4fSvo/edit?gid=1934764833#gid=1934764833)
 ![프로그램 사양서(1)_10-25](https://github.com/user-attachments/assets/fbd47cb2-5c84-4c2f-81fa-088d963adf1c)
 ![프로그램 사양서(2)_10-25](https://github.com/user-attachments/assets/d10f4958-d61f-48ab-882b-d68c1efa7d24)
