@@ -276,24 +276,28 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 </details>
 <br/>
 
+<details>
 <summary><b>강의 승인</b></summary>
 
 ![관리자뷰-강의승인](https://github.com/user-attachments/assets/d06a9db0-d54d-49f6-8dde-1ec0991e0704)
 </details>
 <br/>
 
+<details>
 <summary><b>강의 승인 알림(강사 입장)</b></summary>
 
 ![튜터 뷰-강의승인 알림gif](https://github.com/user-attachments/assets/4f86d75e-53db-44b6-8933-5dc0f5b1fd1f)
 </details>
 <br/>
 
+<details>
 <summary><b> 강의 신청 1:N </b></summary>
 
 ![대기열](https://github.com/user-attachments/assets/3f488864-9d5b-48bd-9878-342eb1da0b3c)
 </details>
 <br/>
 
+<details>
 <summary><b>강의 개설</b></summary>
 
 ![강의 개설 gif](https://github.com/user-attachments/assets/d5be141b-2ae0-4410-96d1-446002acab4b)
@@ -302,6 +306,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 </details>
 <br/>
 
+<details>
 <summary><b>관리 종합 화면</b></summary>
 
 ![강의관리종합페이지GIF](https://github.com/user-attachments/assets/f169e0a9-da68-40cf-a34c-165c4c401a38)
@@ -310,6 +315,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 </details>
 <br/>
 
+<details>
 <summary><b>강의 홈 (공지사항,과제,게시글,댓글) </b></summary>
 
 ![lectureHome](https://github.com/user-attachments/assets/1f5870bb-3dae-47e7-9e4c-706967f341a4)
@@ -324,13 +330,14 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 ### 일정 관리
+<details>
 <summary><b>강의 일정 추가</b></summary>
 
 ![강의일정추가gif](https://github.com/user-attachments/assets/01ef3cc0-bdd8-4f15-857c-a47a50da10bd)
 </details>
 <br/>
 
-
+<details>
 <summary><b>개인 일정 생성</b></summary>
 
 ![개인일정생성gif](https://github.com/user-attachments/assets/9c0c673b-e504-45c9-b6ed-26d9792a9e0b)
