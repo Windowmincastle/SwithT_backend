@@ -231,13 +231,6 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 </details>
 <br/>
-
-
-
-
-
-
-### 소셜 로그인 및 회원가입
 <details>
 <summary><b>소셜 로그인&회원가입 (구글)</b></summary>
   
@@ -254,9 +247,6 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 </details>
 <br/>
-
-
-### 회원 정보 수정 기능
 <details>
 <summary><b>프로필 이미지 수정, 회원정보 수정</b></summary>
 
