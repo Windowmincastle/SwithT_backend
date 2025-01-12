@@ -190,12 +190,38 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 ## 📝 화면 설계서 - [화면 설계서 상세보기](https://www.figma.com/design/823D0xOfvggZJW6FOEDC5B/SwithT-Project?node-id=564-7656&t=D2ENMnjlRpluYxjO-1)
-![image](https://github.com/user-attachments/assets/54ee0d86-5465-4378-bf46-93fd61a43134)
-![image](https://github.com/user-attachments/assets/ed49326c-394d-4333-900d-2fd50ceb51cf)
-![image](https://github.com/user-attachments/assets/97da9fba-f566-4d39-8244-5a86e6e5dfa6)
-![image](https://github.com/user-attachments/assets/70bc7cbb-cf28-4c26-97e2-a2c9ca8edc63)
 
+<details>
+<summary><b>관리자 화면</b></summary>
+  
+![관리자화면](https://github.com/user-attachments/assets/b4a8483d-9a82-4203-b839-f9e1654454b0)
+</details>
+<br/>
+<details>
+<summary><b>회원 화면</b></summary>
+  
+![회원화면](https://github.com/user-attachments/assets/9fb97545-6374-4a98-85b3-d6e6b2965702)
+</details>
+<br/>
+<details>
+<summary><b>1:1 강의 화면 (수강생 화면)</b></summary>
+  
+![11강의화면_1](https://github.com/user-attachments/assets/0098a32a-a8de-45bb-8477-000e53f325ed)
+![11강의화면_2](https://github.com/user-attachments/assets/1329efef-f224-4d16-85af-b820bba050c9)
+<br/>
+<summary><b>1:1 강의 화면 (강사 화면)</b></summary>
 
+![11강의화면튜터_1](https://github.com/user-attachments/assets/75d9e4e8-45ec-4365-bfcf-addb457f79b6)
+![11강의화면튜터_2](https://github.com/user-attachments/assets/f28f7f45-a236-4516-a04e-c4e3aced67e3)
+</details>
+<br/>
+<details>
+<summary><b>1:N 강의 화면</b></summary>
+  
+![1N강의화면1](https://github.com/user-attachments/assets/104ee6cf-1c0c-4cb8-8ca9-0cf85cc30be0)
+![1N강의화면2](https://github.com/user-attachments/assets/ec36b24f-fa41-4b1e-a8ea-204abe615a23)
+</details>
+<br/>
 <br/>
 
 
