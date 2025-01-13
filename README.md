@@ -133,8 +133,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 ## 📋 ERD - [ERD 상세보기](https://www.erdcloud.com/d/Ci6kBDHm5HRx5T5pX)
-![ERD_10-25](https://github.com/user-attachments/assets/6a45ddcb-8bd2-4664-92ff-a2724d8354b5)
-<br/>
+![ERD-새로운 버전](https://github.com/user-attachments/assets/2e8f587e-56ad-4105-b48c-120818339467)
 
 
 
