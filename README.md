@@ -140,7 +140,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
-## ⚙시스템아키텍처 및 CI/CD
+## ⚙ 시스템아키텍처 및 CI/CD
 <details>
 <summary><b>시스템 아키텍처</b></summary>
 
@@ -225,7 +225,7 @@ SwithT Project의 목표는 일정 관리, 다양한 학습 컨텐츠, 강사의
 
 
 
-## 📝UI/UX 단위 테스트 결과서
+## 📝 UI/UX 단위 테스트 결과서
 ### 회원 기능
 <details>
 <summary><b>회원가입</b></summary>
